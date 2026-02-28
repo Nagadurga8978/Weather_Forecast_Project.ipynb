@@ -1,17 +1,22 @@
 🌦 Weather Forecast Application
+🚀 Live Demo
+
+🔗 Streamlit App:
+(https://weatherforecastprojectipynb-i6tlygyhgajrzkmwvyoqwl.streamlit.app/)
+
 📌 Project Overview
 
-The Weather Forecast Application is developed using Python and Streamlit to analyze and display weather data for multiple cities. The application allows users to select a city and view important weather parameters such as temperature, humidity, pressure, wind speed, and weather conditions through an interactive web interface.
+The Weather Forecast Application is developed using Python and Streamlit to analyze and visualize weather data for multiple cities. Users can select a city to view temperature trends, humidity, pressure, wind speed, and weather conditions through an interactive and user-friendly web interface.
 
-🚀 Features
+✨ Features
 
-City-based weather filtering
+City-wise weather filtering
 
 Temperature trend visualization
 
-Display of humidity, pressure, and wind speed
+Displays humidity, pressure, and wind speed
 
-Interactive and user-friendly interface
+Interactive charts using Streamlit
 
 Fast data loading using PKL file
 
@@ -36,41 +41,42 @@ Weather-Forecast-App/
 └── README.md
 ⚙ Installation & Setup
 
-Clone the repository:
+1️⃣ Clone the repository:
 
 git clone <your-repo-link>
 
-Navigate to project folder:
+2️⃣ Navigate to project folder:
 
 cd Weather-Forecast-App
 
-Install dependencies:
+3️⃣ Install required libraries:
 
 pip install -r requirements.txt
 
-Run the application:
+4️⃣ Run the application:
 
 streamlit run app.py
 
 📊 How It Works
 
-The dataset is loaded from a PKL file.
+Loads weather dataset from PKL file
 
-User selects a city from dropdown.
+User selects a city from dropdown
 
-The application filters data based on city.
+Filters and displays weather details
 
-Weather details and temperature trends are displayed.
+Shows temperature trend using line chart
 
-🎯 Future Enhancements
+🔮 Future Enhancements
 
 Real-time weather API integration
 
 5-day forecast prediction
 
-Machine Learning-based temperature prediction
+Machine learning-based temperature prediction
 
-Mobile-friendly UI
+Mobile responsive UI
 
 Nagadurga 
-Developed as a BSc Mini Project for academic purposes.
+
+Developed as a BSc Mini Project for academic submission.
