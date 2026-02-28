@@ -51,6 +51,7 @@ pip install -r requirements.txt
 Run the application:
 
 streamlit run app.py
+
 📊 How It Works
 
 The dataset is loaded from a PKL file.
